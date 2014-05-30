@@ -1,4 +1,6 @@
 ﻿--CREATE DATABASE escola;
+﻿--USUÁRIO: escola;
+﻿--SENHA: 123456;
 --##########################################################
 CREATE TABLE alunos (
 	codaluno SERIAL PRIMARY KEY,
